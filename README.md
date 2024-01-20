@@ -28,7 +28,7 @@ Measurements
 | Conference [CoNEXT'23] | [LEO Satellite vs. Cellular Networks: Exploring the Potential for Synergistic Integration](https://dl.acm.org/doi/10.1145/3624354.3630588) | [Dataset](https://github.com/Starlink-Project/Satellite-vs-Cellular) | |
 | Preprint | [Democratizing LEO Satellite Network Measurement](https://arxiv.org/abs/2306.07469) | [Code](https://github.com/stanford-esrg/LEO_HitchHiking) | | 
 | Conference [MobiCom'23] | [A Networking Perspective on Starlink’s Self-Drivincg LEO Mega-Constellation](https://github.com/self-driving-satellite-network/starlink-autonomous-driving/blob/main/Mobicom23.pdf) | [Code](https://github.com/self-driving-satellite-network/starlink-autonomous-driving) | | |
-| Conference [Infocom'23] | [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](http://xyzhang.ucsd.edu/papers/Xuyang.Cao_INFOCOM23_SaTCP.pdf) | [LeoEM: a Real-Time LEO Satellite Network Emulator](https://github.com/XuyangCaoUCSD/LeoEM) | | 
+| Conference [Infocom'23] | [SaTCP: Link-Layer Informed TCP Adaptation for Highly Dynamic LEO Satellite Networks](http://xyzhang.ucsd.edu/papers/Xuyang.Cao_INFOCOM23_SaTCP.pdf) | [Code: LeoEM](https://github.com/XuyangCaoUCSD/LeoEM) [Presentation](https://drive.google.com/file/d/1y6paIiq6XKSTxFPuO9zbE01xaxY1jAIu/view) [Slides](https://drive.google.com/file/d/17w3MJe5WKJMxw2K0kOkeLbDjU5spNM0H/view) | | 
 
 Physical Layer
 --------------
