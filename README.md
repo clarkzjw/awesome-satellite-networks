@@ -45,6 +45,7 @@ Simulation and Testbed
 | Preprint      | [Space Networking Kit: A Novel Simulation Platform for Emerging LEO Mega-constellations](https://arxiv.org/abs/2401.07511) | | |
 | Preprint      | [T3P: Demystifying Low-Earth Orbit Satellite Broadband](https://arxiv.org/abs/2310.11835) | [LEOScope](https://github.com/leoscope-testbed/global-testbed) | |
 | Conference [NSDI'23] | [StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi) | [StarryNet](https://github.com/SpaceNetLab/StarryNet) | |
+| Demo          | Starlink MemgraphDB Demo | https://github.com/memgraph/starlink | |
 
 Thesis
 ------
